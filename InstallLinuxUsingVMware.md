@@ -10,7 +10,7 @@
  -- [오픈 수세 LEAP 버전 다운로드 공식 홈페이지](https://software.opensuse.org/distributions/leap)
  
 #### 2. ISO파일 적용
-![1isofileadd](https://user-images.githubusercontent.com/44318904/49154700-74fbcd00-f35c-11e8-8167-4e91730688fd.PNG)
+![1isofileadd](https://user-images.githubusercontent.com/44318904/49155277-e2f4c400-f35d-11e8-816d-735501d12f50.PNG)
 
 #### 3. 설치파일 path 지정
 ![2pathassign](https://user-images.githubusercontent.com/44318904/49154714-82b15280-f35c-11e8-82f6-48b783c49826.PNG)
