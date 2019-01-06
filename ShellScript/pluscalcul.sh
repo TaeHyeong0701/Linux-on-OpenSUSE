@@ -1,5 +1,6 @@
 #!/bin/sh
-
+#Written By TaeHyeong
+#Reporting Date: `19.1.6
 echo "First Number : \c"
 read A
 
